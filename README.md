@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yasmina-Hedaihed
-- 👀 I’m interested in ...
+- 👀 I’m interested in AI & ML
 - 🌱 I’m currently learning machine learning algorithms & how to use NN in data science
 - 💞️ I’m looking to collaborate on Python and data science projects
 - 📫 How to reach me " yasminakhalid178@gmail.com"
